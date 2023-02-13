@@ -1,2 +1,6 @@
 # Crud_Operation_In_Laravel8_with_Profileupload
-Here I have uploaded One zip File so That Zip File containes hole crud operation with profile picture in laravel 8, It contains laravel8 all files.
+Here I have Completed the user profile part in which user can add/delete/update/create using profile picture with Laravl=8, HTML,and CSS.
+For Laravel I Referred: 
+https://laravel.com/docs/8.x/installation 
+For PHP I have Referred: 
+https://www.php.net/docs.php
